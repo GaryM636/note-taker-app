@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": 1,
+    "title": "Test title",
+    "text": "Test notes"
+  },
+  {
+    "id": 2,
+    "title": "Get Milk",
+    "text": "get milk today"
+  }
 ]

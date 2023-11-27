@@ -74,6 +74,8 @@ const renderActiveNote = () => {
 
 const handleNoteSave = () => {
   const newNote = {
+    // added id to newNote object
+    id: Math.floor(Math.random() * 1000) + 1,
     title: noteTitle.value,
     text: noteText.value
   };
